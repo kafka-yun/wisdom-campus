@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/campus-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-stater/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/campus-course-stater/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-infr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-infr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-stater/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/campus-user-stater/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/campus-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
